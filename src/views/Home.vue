@@ -3,7 +3,7 @@
     <el-col :xs="24" :sm="12" :md="6">
       <el-card shadow="never">
         <template #header>
-          <span class="left">顾奇峰</span>
+          <span class="left">顾奇峰 峰峰峰</span>
           <span class="right card-header-label green">年</span>
         </template>
         <div class="card-body">
@@ -18,7 +18,7 @@
     <el-col :xs="24" :sm="12" :md="6">
       <el-card shadow="never">
         <template #header>
-          <span class="left">肖战</span>
+          <span class="left">肖战 肖战童鞋</span>
           <span class="right card-header-label blue">月</span>
         </template>
         <div class="card-body">
